@@ -9,7 +9,7 @@ The project follows the **Medallion Architecture** with Bronze, Silver, and Gold
 ## 🏗️ Data Architecture
 
 The project follows a **Medallion Architecture** consisting of three layers:
-![Image description]([img.png](https://github.com/magna-lad/SQL_data_warehouse/blob/main/utils/arch.jpeg))
+![Image description](https://github.com/magna-lad/SQL_data_warehouse/blob/main/utils/arch.jpeg)
 
 ### 🥉 Bronze Layer
 
